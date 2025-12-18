@@ -1,3 +1,3 @@
 # Sup
 
-bfdi is peak
+bfdi is Awesome
